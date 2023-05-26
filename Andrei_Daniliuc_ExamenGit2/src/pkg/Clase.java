@@ -1,5 +1,5 @@
 package pkg;
 
 public class Clase {
-	public String param1="param1";
+	public String param2="param1";
 }
