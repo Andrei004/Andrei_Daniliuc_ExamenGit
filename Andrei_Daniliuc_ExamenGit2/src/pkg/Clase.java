@@ -6,5 +6,5 @@ public class Clase {
 	public String param4="param3";
 	public String param5="param4";
 	public String param6="param5";
-	public String param8="param9";
+	public String param9="param10";
 }
